@@ -28,18 +28,24 @@ The Python Speech Recognition Tool is a simple script that uses the SpeechRecogn
 To use this script, you need the following:
 
 - Python 3.8 and above
-- The `SpeechRecogntion` library, which can be installed using pip:
+- The `SpeechRecognition` library, which can be installed using pip:
+  
   ```bash
   pip install speechrecogntion
   ```
+  
 - The `text-to-speech` conversion library, which can be installed using pip:
+  
   ```bash
   pip install pyttsx3
   ```
+  
 - The `PyAudio` library, which is required for microphone access and can be installed using pip:
+  
   ```bash
   pip install pyaudio
   ```
+  
 - An active network connection
 - Two computers or instances to act as the sender and receiver
 
