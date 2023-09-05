@@ -83,7 +83,7 @@ Receiver (receiver.py)
 
 ## Customization
 
-You can customize the behavior of the tool by modifying the script (index.py). You can add logic to perform specific tasks based on recognized voice commands. For example, you could integrate the tool with other applications, control your computer, or automate tasks.
+You can customize the behavior of the tool by modifying the script (`index.py`). You can add logic to perform specific tasks based on recognized voice commands. For example, you could integrate the tool with other applications, control your computer, or automate tasks.
 
 ## Contributions
 Contributions to this repository are welcome! If you have any improvements or feature suggestions, feel free to fork this repository, make your changes, and submit a pull request.
