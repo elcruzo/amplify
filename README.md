@@ -54,13 +54,13 @@ To use this script, you need the following:
 1. Clone this repository or download the ZIP file and extract it to your preferred location.
 
    ```bash
-   git clone https://github.com/elcruzo/elcruzo-speech-recognition.git
+   git clone https://github.com/elcruzo/amplify.git
    ```
    
 2. Navigate the project directory:
    
    ```bash
-   cd elcruzo-speech-recognition
+   cd amplify
    ```
    
 3. Ensure you have Python 3.x installed. You can check by running:
