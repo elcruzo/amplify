@@ -1,4 +1,4 @@
-# Python Speech Recognition Tool
+# Amplify: Speech Recognition Tool
 
 Welcome to this repository containing a Speech Recognition Tool.
 
